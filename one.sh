@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM this is my first image
 
 ADD package.json /app/
 
